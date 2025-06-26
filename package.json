@@ -13,8 +13,5 @@
   "type": "commonjs",
   "devDependencies": {
     "tailwindcss": "^3.4.17"
-  },
-  "dependencies": {
-    "browserslist": "^4.25.1"
   }
 }
