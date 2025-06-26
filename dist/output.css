@@ -661,6 +661,14 @@ video {
   margin-top: 80px;
 }
 
+.mb-9 {
+  margin-bottom: 2.25rem;
+}
+
+.mt-\[\] {
+  margin-top: ;
+}
+
 .flex {
   display: flex;
 }
@@ -717,8 +725,8 @@ video {
   max-width: 1920px;
 }
 
-.max-w-\[370px\] {
-  max-width: 370px;
+.max-w-\[450px\] {
+  max-width: 450px;
 }
 
 .max-w-\[453px\] {
@@ -845,6 +853,18 @@ video {
   padding-right: 1.5rem;
 }
 
+.pb-9 {
+  padding-bottom: 2.25rem;
+}
+
+.pb-\[110px\] {
+  padding-bottom: 110px;
+}
+
+.pt-\[88px\] {
+  padding-top: 88px;
+}
+
 .text-left {
   text-align: left;
 }
@@ -925,11 +945,11 @@ a:hover {
   color: rgb(205 162 116 / var(--tw-text-opacity, 1));
 }
 
-h1, 
-h2, 
-h3, 
-h4, 
-h5, 
+h1,
+h2,
+h3,
+h4,
+h5,
 h6 {
   font-family: DM Serif Display;
   --tw-text-opacity: 1;
@@ -996,6 +1016,15 @@ h6 {
   padding: 1.5rem;
 }
 
+/* swiper pagination */
+
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets
+ .swiper-pagination-bullet {
+  --tw-bg-opacity: 1;
+  background-color: rgb(41 47 54 / var(--tw-bg-opacity, 1));
+}
+
 @media (min-width: 960px) {
   .lg\:relative {
     position: relative;
@@ -1046,6 +1075,10 @@ h6 {
 
   .xl\:mt-\[200px\] {
     margin-top: 200px;
+  }
+
+  .xl\:mt-\[\] {
+    margin-top: ;
   }
 
   .xl\:h-\[840px\] {
