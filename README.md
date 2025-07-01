@@ -1,2 +1,17 @@
-<h1><i>Project Demo Link</i></h1>
-<h3><i>https://tailwind-interior.netlify.app/</i></h3>
+## 🚀 *Project Demo Link*
+
+### 🔗 [Modern Interior Landing Page Using Tailwind CSS v3 & JS](https://tailwind-interior.netlify.app/)
+
+## 🌟 *Project Description*
+
+🎯 **Live Site**: [Modern Interior Landing Page](https://tailwind-interior.netlify.app/)
+
+💻 Built with **Tailwind CSS v3.4.17** & **JavaScript**
+
+📱 Fully **responsive** & **performance optimized** 
+
+🎨 Style **Clean** & **modern interior layout**
+
+## 📸 *Project Preview*
+
+![interior](https://github.com/user-attachments/assets/06e2dafe-5919-4b10-9bb8-72a65ff8708d)
